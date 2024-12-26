@@ -1,0 +1,9 @@
+Applications of AES
+Data protection: Encrypting sensitive information.
+Secure communications: Used in SSL/TLS for secure web browsing.
+Cryptographic protocols: Employed in various security protocols and standards such as WPA2 for wireless security.
+AES is trusted for its strength and efficiency, making it a cornerstone of modern cryptographic practices.
+
+(XAMPP server error solution)
+  #1 -> cd C:\xampp\mysql\bin
+  #2 -> mysql -u root or mysqld --skip-grant-tables
